@@ -14,5 +14,5 @@ A simple command-line **Password Manager** that securely stores and retrieves en
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/PasswordManager.git
+git clone https://github.com/chrystiella/PasswordManager.git
 cd PasswordManager
