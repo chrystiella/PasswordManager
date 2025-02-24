@@ -9,10 +9,3 @@ A simple command-line **Password Manager** that securely stores and retrieves en
 - 📂 **Modular Design**: Organized into multiple files for better maintainability.
 
 ---
-
-## 🛠 Installation
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/chrystiella/PasswordManager.git
-cd PasswordManager
